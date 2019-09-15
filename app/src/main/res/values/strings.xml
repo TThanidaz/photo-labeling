@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Image_labeling</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_image_label">ImageLabelActivity</string>
+</resources>
